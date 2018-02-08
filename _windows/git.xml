@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="c:\path\to\PortableGit-2.4.4.2-3rd-release-candidate-64-bit\usr\bin" />
+    <option name="myPathToGit" value="C:\Users\alexa\AppData\Local\GitHubDesktop\app-1.0.13\resources\app\git\mingw64\bin" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
