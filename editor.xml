@@ -3,4 +3,10 @@
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_SCALE" value="1.5" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" nodeUpdateOnChanges="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
