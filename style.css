@@ -53,6 +53,7 @@ p {
     font-size: 3vh;
     padding-right: 4vh;
     padding-bottom: 2vh;
+    width: 50%;
 
 }
 
@@ -91,7 +92,7 @@ p {
 
 
 .img_details{
-    font-size: 1vw;
+    font-size: 1vh;
     text-align: center;
 }
 

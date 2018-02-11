@@ -1,0 +1,7 @@
+"GD_85.jpg" "Jimy Hope Brodeur 85th lamb Roasted" "Shoot on DJI mavic By Alexander Brodeur"
+"ice_image.png" "Peace River in Winter" "Shoot on DJI mavic By Alexander Brodeur"
+"IQC.jpeg" "Institute of Quantum Computing" "Shoot on Samsung S6 By Alexander Brodeur"
+"IQC_outside.jpg" "Institute of Quantum Computing" "Shoot on Samsung S6 By Alexander Brodeur"
+"lake_house.png" " Lake House Knowlton QC" "Shoot on DJI mavic By Alexander Brodeur"
+
+
