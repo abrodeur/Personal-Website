@@ -1,5 +1,5 @@
 html {
-    background: url(images/lake_house.png) no-repeat center center fixed;
+    background: url(images/ice_image.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -13,39 +13,85 @@ html {
 body{
     font-family: Verdana, Geneva, sans-serif;
     min-height: 200px;
-
+}
+body *{
+    margin: 0px;
 }
 header{
     color: white;
     -webkit-text-stroke: 1px black;
-    font-size: 500%;
-
+    font-size: 10vh;
+    width: 50%;
+    margin-top: 1vh ;
+    margin-bottom: 1vh ;
+    margin-right: 1vw ;
+    margin-left: 1vw ;
 }
 
-div{
-    bottom: 0px;
-    position: fixed;
-    width: 100%;
-
-
-}
-
-
-p{
+p {
     color: white;
-
-
-
-    font-size: 200%;
 }
-p:nth-of-type(1){
-    padding-right: 10%;
+
+.right{
     text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.quote_block{
+    bottom: 5vh;
+    right: 1vw;
+    position: fixed;
+    margin-top: 1vh ;
+    margin-bottom: 1vh ;
+    margin-right: 1vw ;
+    margin-left: 1vw ;
+}
+.quote{
+    font-size: 3vh;
+    padding-right: 4vh;
+    padding-bottom: 2vh;
 
 }
 
-p:nth-of-type(2){
+.quote:before {
+    content: open-quote;
+}
+
+.quote:after {
+    content: close-quote;
+}
+
+.quote_author{
     text-align: right;
     padding-right: 5%;
-
+    font-size: 2vh;
+    bottom: 2vh;
 }
+
+.quote_author:before{
+    content: '-';
+}
+
+.img-description{
+    bottom: 0px;
+    position: fixed;
+    margin-top: 1vh ;
+    margin-bottom: 1vh ;
+    margin-right: 1vw ;
+    margin-left: 1vw ;
+    text-align: center;
+}
+.img_title{
+    font-size: 2vh;
+    text-align: center;
+}
+
+
+.img_details{
+    font-size: 1vw;
+    text-align: center;
+}
+
